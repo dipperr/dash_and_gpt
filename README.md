@@ -3,3 +3,5 @@
 Um projeto que implementa um sistema de narrativa a um dashbord feito utilizando a lib dash, semelhante ao do PowerBi.
 
 A ideia do projeto é utilizar a api do modelo gpt3.5 para criar uma narrativa para os graficos do dash.
+
+video expicando um pouco a ideia: https://www.youtube.com/watch?v=xGGOpltz0IQ

@@ -1,3 +1,3 @@
 # dash_and_gpt
-![logo OpenIA](https://www.bing.com/images/search?view=detailV2&ccid=7JJ9EYFv&id=2BFAD20676C91F0A24FA873BAAC566BE440E7F11&thid=OIP.7JJ9EYFvPMbcQsUpNZjYZQHaEK&mediaurl=https%3A%2F%2Fiphonesoft.fr%2Fimages%2F2023%2F01%2Fchatgpt-logo-header-banner.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.ec927d11816f3cc6dc42c5293598d865%3Frik%3DEX8ORL5mxao7hw%26pid%3DImgRaw%26r%3D0&exph=900&expw=1600&q=chatgpt&simid=608043425443155506&form=IRPRST&ck=6844EFFCDF8931551F8E014CE205F0CA&selectedindex=3&ajaxhist=0&ajaxserp=0&vt=0&sim=11)
+![logo OpenIA](https://iphonesoft.fr/images/2023/01/chatgpt-logo-header-banner.jpg)
 Um projeto que implementa um sistema de narrativa a um dashbord feito utilizando a lib dash, semelhante ao do PowerBi.
